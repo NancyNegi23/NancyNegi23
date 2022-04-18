@@ -2,7 +2,8 @@
 - 👀 I’m interested in learning different technologies and exploring different field of technologies 
 - 🌱 I’m currently learning data structures and SQL and trying to explore as many fields as possible!!
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me 
+
+### My Socials
 
 <a href="https://twitter.com/NancyNegi23">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
