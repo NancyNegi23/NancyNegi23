@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me 
 
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/NancyNegi23">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nancynegi23/">
