@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nancy Negi
-- 👀 I’m interested in learning different technologies and explore different field of tecnologies 
+- 👀 I’m interested in learning different technologies and exploring different field of technologies 
 - 🌱 I’m currently learning data structures and SQL and trying to explore as many fields as possible!!
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me 
