@@ -1,7 +1,7 @@
 ## Hey there, I'm Nancy Negi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 👀 I’m interested in learning different technologies and exploring different field of technologies 
-- 🌱 I’m currently learning data structures and SQL and trying to explore as many fields as possible!!
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in learning and exploring about different technologies and meeting new people to learn from
+- 🌱 I’m currently learning Flutter and SQL and trying to explore as many fields as possible!!
+- 💞️ I’m looking to collaborate on App Development through Flutter 
 
 ### My Socials
 
