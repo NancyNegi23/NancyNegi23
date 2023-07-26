@@ -5,11 +5,12 @@
 
 ### My Socials
 
+<!--
 <a href="https://twitter.com/NancyNegi23">
-  <img align="left" alt="Nancy Negi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Nancy Negi | Twitter" width="22px" src="" />
 </a>
 <a href="https://www.linkedin.com/in/nancynegi23/">
-  <img align="left" alt="Nancy's LinkdIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Nancy's LinkdIN" width="22px" src="" />
 </a>
 
 <!---
